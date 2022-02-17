@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "ACP",
+    " BW"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:carrots"
+    },
+    "B": {
+      "item": "minecraft:bowl"
+    },
+    "P": {
+      "item": "minecraft:potatoes"
+    },
+    "A": {
+      "item": "minecraft:baked_potato"
+    },
+    "W": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "result": {
+    "item": "tutorial:soup",
+    "count": 1
+  }
+}
